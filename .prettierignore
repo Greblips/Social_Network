@@ -1,0 +1,6 @@
+.tmp
+.cache/
+**/.json/**
+**/.pnp.*
+/dist*/
+node_modules/
